@@ -1,0 +1,30 @@
+.player{
+    border: 1px solid blue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    width: 30%;
+    float: left;
+}
+
+.player img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.player h2{
+    color: blue;
+    font-size: 20px;
+}
+
+.main-btn{
+    background-color: hsl(271, 76%, 53%);
+    width: 200px;
+    height: 50px;
+    border: hsl(271, 78%, 75%);
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.final-club{
+    margin-left: 20px;
+}
+
+.final-club h1, h4, p{
+    color: green;
+}
+
+.final-club p{
+    font-size: 18px;
+}
+
+.final-club h6{
+    padding: 5px;
+    margin: 0;
+    border: 1px solid green;
+    color: green;
+ 
+}
